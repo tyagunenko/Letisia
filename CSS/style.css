@@ -9,10 +9,11 @@ background-color: #c54fa7;
   height: 180px;
   position: fixed;
   margin-top: 0;
+  font-family: cursive;
   }
 .column-container{
 border-left: 122px solid #c54fa7;
-height: 600px;
+height: 900px;
 float: right;
 right: 100px;
 width: 9%;
@@ -28,7 +29,7 @@ width: 60%;
 
 .bottom-container {
   background-color: #c54fa7;
-  font-family: fantasy;
+  font-family: monospace;
 }
 .row:after {
   content: "";
@@ -55,7 +56,7 @@ width: 60%;
 
 h1 {
   color: #3426a4;
-  font-family: 'Handlee', cursive;
+  font-family: cursive;
 }
 
 h2 {
@@ -66,4 +67,8 @@ h2 {
 
 h3 {
   color: #8d309b;
+}
+
+h4{
+  font-size: 20px;
 }
